@@ -40,3 +40,11 @@ GGTCGCTCCCTAAGTTGGTGGGCTATGACGAAGACTCAGGATCAACACCAATTTTGCCTGCCCGTAAGAATGATCGCGTA
 ...................................................................(((((.((((.........))))))))).................(...(((((...........)))))..)..((((((.(((((((((((....((((.(((.((((((..(((.....(((((......)))))...))).))))))))).))))..........((((((((.................((...)).......................................(((...(((.....))).)))............................((........))...................((((...((((..((((((....))).....))).)))).))))..)))))))).))))))...)))))))).)))..................................... (-83.50)
 
 Probably, the most suitable sequence would be the 8, given it has overall less probable base pairings.
+
+T7 promoter sequence
+https://international.neb.com/faqs/2015/01/30/what-is-the-promoter-sequence-of-t7-rna-polymerase
+
+T7 Promoter
+5′ TAATACGACTCACTATAG 3′
+
+T7 RNA polymerase starts transcription at the underlined G in the promoter sequence. The polymerase then transcribes using the opposite strand as a template from 5’->3’. The first base in the transcript will be a G.
